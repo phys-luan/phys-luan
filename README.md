@@ -21,7 +21,7 @@ Bem-vindo ao meu perfil do GitHub. Aqui compartilho meus códigos e projetos em 
 
 ## 📫 Contato
 
-- Email: seu.email@universidade.edu
+- Email: lameira.bfi@uesc.br
 - [Lattes](http://lattes.cnpq.br/seu-lattes)
 
 ---
