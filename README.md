@@ -1,13 +1,12 @@
-# 👋 Olá, eu sou Luan Almeida Meira - Estudante de Física
+# 👋 Olá, eu sou Luan Almeida Meira - Estudante de Física (UESC)
 
 Bem-vindo ao meu perfil do GitHub. Aqui compartilho meus códigos e projetos em Informação e Computação Quântica.
 
 ## 🔬 Códigos em Destaque
 
-### 📊 [Simulação de Sistema Físico 1](https://github.com/seuusuario/simulacao-fisica-1)
-📝 Simulação de [nome do fenômeno físico] usando [método numérico]  
-🔧 **Tecnologias:** Python, NumPy, Matplotlib  
-📈 **Aplicações:** [áreas de aplicação]
+### 📊 [Noisy SWAP Chain Tomography for Entangled States](https://github.com/seuusuario/simulacao-fisica-1)  
+🔧 **Technologies:** Qiskit, Qutip, Python, NumPy, Matplotlib  
+📈 **Aplication:** [IQC - Quantum Information and Computing]
 
 ### 📊 [Análise de Dados Experimentais](https://github.com/seuusuario/analise-dados-fisica)
 📝 Processamento e análise de dados de [tipo de experimento]  
@@ -16,19 +15,10 @@ Bem-vindo ao meu perfil do GitHub. Aqui compartilho meus códigos e projetos em 
 
 ## 🧮 Áreas de Interesse
 
-- Física Computacional
-- Simulações Numéricas
-- Análise de Dados Experimentais
-- Modelagem Matemática
-- [Suas outras áreas de interesse]
-
-## 🛠 Stack Técnica
-
-- **Linguagens:** Python, MATLAB, C++
-- **Bibliotecas Científicas:** NumPy, SciPy, Matplotlib, Pandas
-- **Ferramentas:** Jupyter Notebook, LaTeX, Git
-- **Especialidades:** Métodos numéricos, análise de dados, visualização científica
-
+- Informação Quântica 
+- Termodinâmica Quântica
+- Computação Quântica
+- 
 ## 📫 Contato
 
 - Email: seu.email@universidade.edu
