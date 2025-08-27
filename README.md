@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil do GitHub. Aqui compartilho meus códigos e projetos em 
 🔧 **Technologies:** Qiskit, Qutip, Python, NumPy, Matplotlib  
 📈 **Aplication:** [IQC - Quantum Information and Computing]
 
-### 📊 [Análise de Dados Experimentais](https://github.com/seuusuario/analise-dados-fisica)
+### 📊 [Bell Inequality Violation on IBM Quantum Processors Impact of Noise on Entanglement Between Distant Qubits} (https://github.com/seuusuario/analise-dados-fisica)
 📝 Processamento e análise de dados de [tipo de experimento]  
 🔧 **Tecnologias:** Python, Pandas, SciPy, Jupyter  
 📊 **Métodos:** Análise estatística, ajuste de curvas, visualização
