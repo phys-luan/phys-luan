@@ -4,11 +4,6 @@ Bem-vindo ao meu perfil do GitHub. Aqui compartilho meus códigos e projetos em 
 
 ## 🔬 Códigos em Destaque
 
-### 📊 [Noisy SWAP Chain Tomography for Entangled States](https://github.com/seuusuario/simulacao-fisica-1)  
-
-🔧 **Technologies:** Qiskit, Qutip, Python, NumPy, Matplotlib  
-📈 **Aplication:** IQC - Quantum Information and Computing
-
 ### 📊 [Bell Inequality Violation on IBM Quantum Processors Impact of Noise on Entanglement Between Distant Qubits](https://github.com/seuusuario/analise-dados-fisica) 
 
 🔧 **Technologies:** Qiskit, Qutip, Python, NumPy, Matplotlib  
