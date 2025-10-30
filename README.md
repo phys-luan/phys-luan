@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub. Aqui compartilho meus códigos e projetos em 
 
 ## 🔬 Códigos em Destaque
 
-### 📊 [Bell Inequality Violation on IBM Quantum Processors Impact of Noise on Entanglement Between Distant Qubits](https://github.com/seuusuario/analise-dados-fisica) 
+### 📊 [Bell Inequality Violation on IBM Quantum Processors Impact of Noise on Entanglement Between Distant Qubits]
 
 🔧 **Technologies:** Qiskit, Qutip, Python, NumPy, Matplotlib  
 📈 **Aplication:** IQC - Quantum Information and Computing
