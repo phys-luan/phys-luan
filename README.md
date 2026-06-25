@@ -8,6 +8,11 @@ Bem-vindo ao meu perfil do GitHub. Aqui compartilho meus códigos e projetos em 
 
 🔧 **Technologies:** Qiskit, Qutip, Python, NumPy, Matplotlib  
 📈 **Aplication:** IQC - Quantum Information and Computing
+
+### 📊 [Bell Inequality Violation on IBM Quantum Processors Impact of Noise on Entanglement Between Distant Qubits]
+
+🔧 **Technologies:** Qiskit, Qutip, Python, NumPy, Matplotlib  
+📈 **Aplication:** IQC - Quantum Information and Computing
 ## 🧮 Áreas de Interesse
 
 - Informação Quântica 
