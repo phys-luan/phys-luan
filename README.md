@@ -4,13 +4,12 @@ Bem-vindo ao meu perfil do GitHub. Aqui compartilho meus códigos e projetos em 
 
 ## 🔬 Códigos em Destaque
 
-### 📊 [Bell Inequality Violation on IBM Quantum Processors Impact of Noise on Entanglement Between Distant Qubits]
+### 📊 Bell Inequality Violation on IBM Quantum Processors Impact of Noise on Entanglement Between Distant Qubits
 
 🔧 **Technologies:** Qiskit, Qutip, Python, NumPy, Matplotlib  
 📈 **Aplication:** IQC - Quantum Information and Computing
 
-### 📊 [Curso de Programação em Python da UEFS: A Invasão do Império – O Despertar do Guardião 
-Por: Luan Almeida Meira com professor: Malachor Jonatas]
+### 📊 Curso de Programação em Python da UEFS: A Invasão do Império – O Despertar do Guardião 
 
 🔧 **Technologies:** Python, Pygame, Sys, Random 
 📈 **Aplication:** Criação de aplicativos multimídia e jogos
