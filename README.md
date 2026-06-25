@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil do GitHub. Aqui compartilho meus códigos e projetos em 
 
 ### 📊 Curso de Programação em Python da UEFS: A Invasão do Império – O Despertar do Guardião 
 
-🔧 **Technologies:** Python, Pygame, Sys, Random 
+🔧 **Technologies:** Python, Pygame, Sys, Random  
 📈 **Aplication:** Criação de aplicativos multimídia e jogos
 
 ## 🧮 Áreas de Interesse
